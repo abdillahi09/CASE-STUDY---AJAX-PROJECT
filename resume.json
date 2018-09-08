@@ -1,0 +1,40 @@
+{
+	"name":"NATHANIEL<br>MORRISON",
+	"profession":"CUSTOMER SERVICE",
+	"description":"As someone who can identify the need of customers for effective solutions. I am committed to high quality service that ensures a positive experience.",
+	"highlights":"PERSONAL HIGHLIGHTS", 
+	"highlightscontent":["Cheerful","Neat and well-organized","Motivated by problem solving","Independent worker","Works well with deadlines","Collaborative and efficient"],
+	"detail":"CONTACT DETAILS",
+	"contactdetails":{
+		"address":"123 Anywhere St",
+		"city": "Any City, State",
+		"country":"Country"},
+	"email":"hello@reallygreatsite.com",
+	"tel":"123-456-7890",
+	"basic":"BASIC<br>INFORMATION",
+	"basicinformation":"I am a professional Customer Service Representative with over 6 years in handling multi-national clients. My unique experience stems from years of providing excellent customer support, creative problem solving and building customer loyalty.",
+	"edutitle":"EDUCATION",
+	"education": {
+		"school1":"University of El Dorado",
+		"class1":"Class of 2013",
+		"degree1":"Masters in Human Resource Management",
+		"association":"University of Eldorado Human Resource Association",
+		"rank":"Vice-President in 2012",
+		"school2":"University of El Dorado",
+		"degree2":"Bachelors in Communication Arts",
+		"honors":"Dean Honors",
+		"title":"Teacher's Assistant of the Humanities Department"
+	},
+	"exptitle":"PROFESSIONAL EXPERIENCE",
+	"experience":{
+		"job1":"Customer Service Manager, Bijou Solutions Inc.",
+		"location1":{
+			"city": "Any City, State",
+			"country":"2020-present",
+			"description":"Motivated and improved the customer department and its 25 staff members to propel them towards set goals."
+		}
+	},
+	"experience2":"Data Services Specialist 24 Gold Business Lion<br> Services Inc.",
+	"location2":"Any City, State. 2015-2019.",
+	"description1":"Developed, organized and tracked key performance metrics and company profiles for all employees for better corporate productivity and monitoring."
+}
