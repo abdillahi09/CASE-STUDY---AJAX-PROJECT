@@ -1,2 +1,2 @@
 # CASE-STUDY---AJAX-PROJECT
-Building Resume and extracting details from JSON file. 
+Building Resume by extracting details from JSON file. 
